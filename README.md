@@ -1,3 +1,3 @@
-# practice_app
+# QR generator
 
-A new Flutter project.
+QR GENERATOR 
